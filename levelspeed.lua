@@ -233,15 +233,4 @@ function Cheats()
    else -- Sora level 1
       WriteFloat(Sys3+0x17CE4, 8)
    end
-   WriteFloat(Sys3+0x17D18, 24) -- Valor Form
-   WriteFloat(Sys3+0x17D4C, 24) -- Wisdom Form
-   WriteFloat(Sys3+0x17D80, 20) -- Master Form
-   WriteFloat(Sys3+0x17DB4, 32) -- Final Form
-   WriteFloat(Sys3+0x17E1C, 36) -- Lion Sora
-   WriteFloat(Sys3+0x17DE8, 32) -- Anti Form
-   WriteFloat(Sys3+0x17E50, 35) -- Mermaid Sora
-   WriteFloat(Sys3+0x18190, 40) -- Carpet Sora
-   WriteFloat(Sys3+0x181F8, 16) -- Dice Sora
-   WriteFloat(Sys3+0x1822C, 16) -- Card Sora
-   WriteFloat(Sys3+0x18364, 20) -- Limit Form
 end
