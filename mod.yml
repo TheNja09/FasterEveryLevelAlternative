@@ -4,4 +4,4 @@ assets:
   method: copy
   source:
   - name: levelspeed.lua
-title: Faster Every Level
+title: Faster Every Level (Alt.)
