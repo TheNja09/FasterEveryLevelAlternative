@@ -1,8 +1,8 @@
+title: Faster Every Level (Alt.)
+description: This mod is retired! There will be no support to this SPECIFIC mod. Please use my main version of this mod, TheNja09/SpraFasterEveryLevel!
 assets:
 #Lua Scripts
 - name: scripts/levelspeed.lua
   method: copy
   source:
   - name: levelspeed.lua
-title: Faster Every Level (Alt.)
-description: This mod is retired! There will be no support to this SPECIFIC mod. Please use my main version of this mod, TheNja09/SpraFasterEveryLevel!
